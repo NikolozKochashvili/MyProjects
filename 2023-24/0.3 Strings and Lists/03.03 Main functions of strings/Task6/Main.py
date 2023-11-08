@@ -1,2 +1,2 @@
 s = input()
-print(s.index('ra'))
+print(s.count('ra'))
